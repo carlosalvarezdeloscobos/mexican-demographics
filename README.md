@@ -1,4 +1,4 @@
 # Insights from mexican demographics: 2020 Census
 
 
-#![Education](Images/Image 1.png)
+![I1](Images/Image 1.png)
