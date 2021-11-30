@@ -1,5 +1,5 @@
 # Insights from mexican demographics: 2020 Census
-
+The objective of this survey is to identify the key demographic trends in order to use in future research such as financial modeling, market research, ml research.
 
 ![I1](Images/Image1.png)
 
